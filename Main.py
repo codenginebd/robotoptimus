@@ -1,5 +1,8 @@
 __author__ = 'Codengine'
 
+"""Required Modules: goslate for google translate."""
+
+
 class Parser:
     @staticmethod
     def split_values(s):
